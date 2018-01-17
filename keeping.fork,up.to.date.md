@@ -5,7 +5,7 @@
 ### 2. Add remote from original repository in your forked repository: 
 
     cd into/cloned/fork-repo
-    git remote add upstream git://github.com/ORIGINAL-DEV-USERNAME/REPO-YOU-FORKED-FROM.git
+    git remote add upstream git@github.com:lennylxx/ipv6-hosts.git
     git fetch upstream
 
 ### 3. Updating your fork from original repo to keep up with their changes:
