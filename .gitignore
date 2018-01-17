@@ -1,3 +1,5 @@
-tools/*.txt
-*.pyc
-.DS_Store
+# Hosts
+lmhosts.sam
+networks
+protocol
+services
